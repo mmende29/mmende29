@@ -1,4 +1,4 @@
-# Hello, I'm Marvin Mendez 👋
+# Hello, I'm Marvin Mendez
 
 **Electrical Engineer | Signal Processing & Industrial Automation**
 
